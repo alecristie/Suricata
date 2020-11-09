@@ -1,0 +1,60 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-repeat: no-repeat;
+  }
+
+.navbar{
+    background: padding-box;
+    font: normal;
+  }
+
+.bg-magenta{
+  background-color:#E83E8C;
+}  
+
+.bg-gris{
+  color:#707070
+}
+
+.bg-cian {
+  background-color: #17A2B8;
+}
+
+.bg-otro{
+  color: #373A3C;
+}
+
+.h1{  
+  font-size: 80px;
+  letter-spacing: 0px;
+  font-weight: 700; 
+}
+  @media only screen and (max-width: 576px) {
+#h1{font-size: 2.5rem;}
+}
+
+
+.h2{
+  font-size: 40px;
+}
+
+.p{
+  font-size: 16px;
+  font-weight: 400; 
+}
+
+.list-group {
+  font-size: 11px;
+  font-weight: 400; 
+}
+
+.card-link {
+  font-size: 11px;
+  font-weight: 400; 
+}
+
+
+@media (max-width: 576px) {
+  #icons{display: none; }
+}
+
